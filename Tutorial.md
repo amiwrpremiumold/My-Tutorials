@@ -48,10 +48,11 @@ YOUR_API_HASH_HERE ~> را با api hash که در مرحله قبل گرفتی�
 بعد از نصب python ترمینال یا خط فرمان را باز کرده و دستور زیر را وارد میکنیم:
 <br>
 <br>
-`pip3 install telethon`
+`pip install telethon`
 <br>
-`pip3 install prettytable`
+`pip install prettytable`
 <br>
-`pip3 install termcolor`
+`pip install termcolor`
 <br>
+`pip install colorama`
 <br>
