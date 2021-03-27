@@ -1,3 +1,5 @@
+
+
 #  استخراج اعضا
 
 توی فیلم زیر نحوه استفاده از اسکریپت استخراج اعضا نشون داده شده
@@ -13,7 +15,6 @@
 توی فیلم زیر نحوه استفاده از اسکریپت اد کردن اعضا نشون داده شده
 <br><br>
 [![Watch the video](https://img.youtube.com/vi/9Y40WDkDDQY/hqdefault.jpg)](https://youtu.be/9Y40WDkDDQY)
-<br><br><br><br>
-اگه نمیتونی از یوتیوب ببینی از [این لینک](https://user-images.githubusercontent.com/39862677/109401475-45393680-7964-11eb-90ca-f01f2d429c4d.mp4) استفاده کن
-<br><br><br><br>
+
+
 
